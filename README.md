@@ -1,4 +1,6 @@
+# Notes(z)
 
+minimally personal notes of my self
 
 ## Tags
 
