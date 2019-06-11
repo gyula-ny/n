@@ -1,3 +1,7 @@
+---
+date: 2019-06-11
+tags: quotes
+---
 
 "Notably, the fuel tanks used in this mission weren’t provided enough fuel to return from the Moon’s surface — an intentional limitation imposed in case the astronauts flying the test run were tempted to jump the queue and become the first people to walk on the lunar surface, ahead of Apollo 11’s Neil Armstrong  and Buzz Aldrin."
 
